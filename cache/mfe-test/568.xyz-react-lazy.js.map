@@ -1,0 +1,1 @@
+{"version":3,"file":"568.xyz-react-lazy.js","mappings":"wJAMA,QAJa,WACX,OAAO","sources":["webpack://react-lazy/./src/pages/Home.js"],"sourcesContent":["import React from \"react\";\n\nconst Home = () => {\n  return <h2>This is the Home PAGE!</h2>;\n};\n\nexport default Home;\n"],"names":[],"sourceRoot":""}

@@ -1,0 +1,12 @@
+{
+  "imports": {
+    "@twl/root-config": "http://localhost:9000/twl-root-config.js",
+    "@xyz/react-single": "http://localhost:8499/xyz-react-single.js",
+    "@xyz/react-multiples": "http://localhost:8500/xyz-react-multiples.js",
+    "@xyz/react-parcel": "http://localhost:8501/xyz-react-parcel.js",
+    "@xyz/react-route": "http://localhost:8502/xyz-react-route.js",
+    "@xyz/utils": "http://localhost:8600/xyz-utils.js",
+    "@xyz/react-lazy": "http://localhost:8503/xyz-react-lazy.js",
+    "@xyz/react-header": "http://localhost:8700/xyz-react-header.js"
+  }
+}

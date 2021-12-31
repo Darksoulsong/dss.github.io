@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lazy=self.webpackChunkreact_lazy||[]).push([[568],{568:(e,s,t)=>{t.r(s),t.d(s,{default:()=>c}),t(954);var a=t(893);const c=function(){return(0,a.jsx)("h2",{children:"This is the Home PAGE!"})}}}]);
+//# sourceMappingURL=568.xyz-react-lazy.js.map

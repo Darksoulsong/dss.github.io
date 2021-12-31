@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lazy=self.webpackChunkreact_lazy||[]).push([[97],{97:(e,t,a)=>{a.r(t),a.d(t,{default:()=>s}),a(954);var c=a(893);const s=function(){return(0,c.jsx)("h2",{children:"This is the Contact PAGE!"})}}}]);
+//# sourceMappingURL=97.xyz-react-lazy.js.map

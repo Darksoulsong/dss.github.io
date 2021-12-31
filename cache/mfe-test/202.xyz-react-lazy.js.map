@@ -1,0 +1,1 @@
+{"version":3,"file":"202.xyz-react-lazy.js","mappings":"wJAMA,QAJc,WACZ,OAAO","sources":["webpack://react-lazy/./src/pages/About.js"],"sourcesContent":["import React from \"react\";\n\nconst About = () => {\n  return <h2>This is the About PAGE!</h2>;\n};\n\nexport default About;\n"],"names":[],"sourceRoot":""}

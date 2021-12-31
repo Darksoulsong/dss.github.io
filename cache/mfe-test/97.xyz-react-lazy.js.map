@@ -1,0 +1,1 @@
+{"version":3,"file":"97.xyz-react-lazy.js","mappings":"sJAMA,QAJgB,WACd,OAAO","sources":["webpack://react-lazy/./src/pages/Contact.js"],"sourcesContent":["import React from \"react\";\n\nconst Contact = () => {\n  return <h2>This is the Contact PAGE!</h2>;\n};\n\nexport default Contact;\n"],"names":[],"sourceRoot":""}
