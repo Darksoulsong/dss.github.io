@@ -1,12 +1,12 @@
 {
   "imports": {
-    "@twl/root-config": "https://dss.github.io/cache/mfe-test/twl-root-config.js",
-    "@xyz/react-single": "https://dss.github.io/cache/mfe-test/xyz-react-single.js",
-    "@xyz/react-multiples": "https://dss.github.io/cache/mfe-test/xyz-react-multiples.js",
-    "@xyz/react-parcel": "https://dss.github.io/cache/mfe-test/xyz-react-parcel.js",
-    "@xyz/react-route": "https://dss.github.io/cache/mfe-test/xyz-react-route.js",
-    "@xyz/utils": "https://dss.github.io/cache/mfe-test/xyz-utils.js",
-    "@xyz/react-lazy": "https://dss.github.io/cache/mfe-test/xyz-react-lazy.js",
-    "@xyz/react-header": "https://dss.github.io/cache/mfe-test/xyz-react-header.js"
+    "@twl/root-config": "https://darksoulsong.github.io/dss.github.io/cache/mfe-test/twl-root-config.js",
+    "@xyz/react-single": "https://darksoulsong.github.io/dss.github.io/cache/mfe-test/xyz-react-single.js",
+    "@xyz/react-multiples": "https://darksoulsong.github.io/dss.github.io/cache/mfe-test/xyz-react-multiples.js",
+    "@xyz/react-parcel": "https://darksoulsong.github.io/dss.github.io/cache/mfe-test/xyz-react-parcel.js",
+    "@xyz/react-route": "https://darksoulsong.github.io/dss.github.io/cache/mfe-test/xyz-react-route.js",
+    "@xyz/utils": "https://darksoulsong.github.io/dss.github.io/cache/mfe-test/xyz-utils.js",
+    "@xyz/react-lazy": "https://darksoulsong.github.io/dss.github.io/cache/mfe-test/xyz-react-lazy.js",
+    "@xyz/react-header": "https://darksoulsong.github.io/dss.github.io/cache/mfe-test/xyz-react-header.js"
   }
 }
