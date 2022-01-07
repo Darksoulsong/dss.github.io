@@ -1,4 +1,4 @@
-System.register(["react"], function (exports) {
+System.register("zustand", ["react"], function (exports) {
   "use strict";
   var useReducer, useRef, useDebugValue, useEffect, useLayoutEffect;
   return {
